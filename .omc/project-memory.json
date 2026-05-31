@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1780202549217,
+  "projectRoot": "C:\\Users\\uesr\\Desktop\\하나_stream배포",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {},
+  "hotPaths": [
+    {
+      "path": "",
+      "accessCount": 1,
+      "lastAccessed": 1780202554972,
+      "type": "directory"
+    },
+    {
+      "path": "streamlit_basic.py",
+      "accessCount": 1,
+      "lastAccessed": 1780202557916,
+      "type": "file"
+    },
+    {
+      "path": "requirements.txt",
+      "accessCount": 1,
+      "lastAccessed": 1780202597364,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
